@@ -2,10 +2,10 @@
 
 ## Company Profile
 
-Horiseon is a PR company specialising in improving websites through:
-- Search Engine Optimization
-- Online Repuation Management
-- Social Media Management
+Horiseon is a Marketing & PR Agency specialising in:
+- Search Engine Optimization.
+- Online Repuation Management.
+- Social Media Management.
 
 ## Company Website
 
@@ -17,6 +17,6 @@ https://markleonard84.github.io/Horiseon/
 This website has been refactored and updated as follows:
 
 1. Ensuring the webpage meets accessibility standards.
-1. Ensuring the webpage uses HTML5 Semantic Tags and Attributes, following a logical structure.
-1. Consolidating CSS to improve accessibility for website users
+1. Ensuring the webpage uses HTML5 Semantic Tags and Attributes, following a logical structure and position.
+1. Consolidating and optimise CSS to improve accessibility.
 
