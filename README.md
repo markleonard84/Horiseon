@@ -1,5 +1,4 @@
 # Horiseon Social Solution Services
-![Horiseon Logo] (/assets/images/Logo.jpeg)
 
 ## Company Profile
 
