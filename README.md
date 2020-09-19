@@ -3,9 +3,9 @@
 ## Company Profile
 
 Horiseon is a PR company specialising in improving websites through:
--Search Engine Optimization
--Online Repuation Management
--Social Media Management
+- Search Engine Optimization
+- Online Repuation Management
+- Social Media Management
 
 ## Company Website
 
